@@ -1,2 +1,2 @@
-# intro_python_workshop
+# Introduction to Python
 Content for Big Data Workshop
